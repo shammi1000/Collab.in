@@ -1,6 +1,6 @@
-# 📱 Influencers Hub
+# 📱 Collab.in
 
-**Influencers Hub** is a full-stack influencer marketing platform that connects brands with social media influencers through a seamless web and mobile experience.
+**Collab.in** is a full-stack influencer marketing platform that connects brands with social media influencers through a seamless web and mobile experience.
 
 ## 🔧 Technologies Used
 
